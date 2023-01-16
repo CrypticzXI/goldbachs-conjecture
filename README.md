@@ -8,7 +8,7 @@ through every number till it either equals your value or finds a value that brea
 
 The following code uses CPU processing power to loop through numbers.
 
-# If you do not know about Goldbach's Conjecture please read below.
+### If you do not know about Goldbach's Conjecture please read below.
 
 The following text will be quoted from: https://en.wikipedia.org/wiki/Goldbach%27s_conjecture
 
